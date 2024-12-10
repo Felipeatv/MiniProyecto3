@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productos>
+    <producto>
+        <codigo>43123</codigo>
+        <nombre>Iphone 17 pro max</nombre>
+        <precio>5000000.0</precio>
+        <categoria>Celular</categoria>
+        <imagen>ruta_imagen</imagen>
+    </producto>
+</productos>
